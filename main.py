@@ -33,4 +33,4 @@ async def deneme(ctx):
 
 
 #botunuzun tokenini discord developer portal dan alınız
-master.run('NTk3NDgxOTQwMTY1MzI4OTEy.XUWvCQ.DPPGpbhPhZ8zDZYmXe_Oi6RmQPo')
+master.run('Token')
