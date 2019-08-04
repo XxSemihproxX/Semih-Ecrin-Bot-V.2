@@ -10,4 +10,4 @@ bot.on('message',msg => {
 });
 
 
-bot.login('token'); "NTk3NDgxOTQwMTY1MzI4OTEy.XUWvCQ.DPPGpbhPhZ8zDZYmXe_Oi6RmQPo"
+bot.login('token'); "Değerli Toqen"
